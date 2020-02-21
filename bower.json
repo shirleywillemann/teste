@@ -1,0 +1,21 @@
+{
+  "name": "teste",
+  "homepage": "https://github.com/shirleywillemann/teste",
+  "authors": [
+    "shirleywillemann <shirleywillemann@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
